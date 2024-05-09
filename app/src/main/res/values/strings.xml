@@ -1,0 +1,5 @@
+<resources>
+    <string name="title_activity_detail">Detail Activity</string>
+    <string name="app_name">BelajarIntent</string>
+    <string name="hallo">Selamat kamu berhasil berpindah halaman ke Hallo Dicoding</string>
+</resources>
